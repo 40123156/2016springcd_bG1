@@ -15,9 +15,13 @@ dist/
 downloads/
 eggs/
 .eggs/
+<<<<<<< HEAD
 lib/
 lib64/
 parts/
+=======
+lib64/
+>>>>>>> 7bc8c6be94c05f492e6c646fecc831536f62650e
 sdist/
 var/
 *.egg-info/
@@ -51,6 +55,7 @@ coverage.xml
 
 # Django stuff:
 *.log
+<<<<<<< HEAD
 local_settings.py
 
 # Flask stuff:
@@ -59,6 +64,8 @@ instance/
 
 # Scrapy stuff:
 .scrapy
+=======
+>>>>>>> 7bc8c6be94c05f492e6c646fecc831536f62650e
 
 # Sphinx documentation
 docs/_build/
@@ -66,6 +73,7 @@ docs/_build/
 # PyBuilder
 target/
 
+<<<<<<< HEAD
 # IPython Notebook
 .ipynb_checkpoints
 
@@ -87,3 +95,7 @@ ENV/
 
 # Rope project settings
 .ropeproject
+=======
+#Ipython Notebook
+.ipynb_checkpoints
+>>>>>>> 7bc8c6be94c05f492e6c646fecc831536f62650e

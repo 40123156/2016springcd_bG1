@@ -3,8 +3,13 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'kmol'
+<<<<<<< HEAD
 SITENAME = 'CD期末考週 網頁 (虎尾科大MDE)'
 SITEURL = 'http://cdw18-ag100.rhcloud.com/static/'
+=======
+SITENAME = 'CDW11 網頁 (虎尾科大MDE)'
+SITEURL = 'http://cdw11-ag100.rhcloud.com/static/'
+>>>>>>> 7bc8c6be94c05f492e6c646fecc831536f62650e
 
 # 不要用文章所在目錄作為類別
 USE_FOLDER_AS_CATEGORY = False
@@ -72,4 +77,8 @@ CATEGORIES_URL = "categories.html"
 
 #MENUITEMS = [('Home', '/'), ('Archives', '/archives.html'), ('Search', '/search.html')]
 # 希望將部份常用的 Javascript 最新版程式庫放到這裡, 可以透過 http://cadlab.mde.tw/post/js/ 呼叫
+<<<<<<< HEAD
 STATIC_PATHS = ['js']
+=======
+STATIC_PATHS = ['js']
+>>>>>>> 7bc8c6be94c05f492e6c646fecc831536f62650e

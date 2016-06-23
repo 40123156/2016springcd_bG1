@@ -4,27 +4,43 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
+<<<<<<< HEAD
 <loc>http://cdw18-ag100.rhcloud.com/static/blog/</loc>
 <lastmod>2016-06-23T09:55:39-00:00</lastmod>
+=======
+<loc>http://cdw11-ag100.rhcloud.com/static/blog/</loc>
+<lastmod>2016-06-23T10:53:19-00:00</lastmod>
+>>>>>>> 7bc8c6be94c05f492e6c646fecc831536f62650e
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
+<<<<<<< HEAD
 <loc>http://cdw18-ag100.rhcloud.com/static/blog/archives.html</loc>
 <lastmod>2016-06-23T09:55:39-00:00</lastmod>
+=======
+<loc>http://cdw11-ag100.rhcloud.com/static/blog/archives.html</loc>
+<lastmod>2016-06-23T10:53:19-00:00</lastmod>
+>>>>>>> 7bc8c6be94c05f492e6c646fecc831536f62650e
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
+<<<<<<< HEAD
 <loc>http://cdw18-ag100.rhcloud.com/static/blog/tags.html</loc>
 <lastmod>2016-06-23T09:55:39-00:00</lastmod>
+=======
+<loc>http://cdw11-ag100.rhcloud.com/static/blog/tags.html</loc>
+<lastmod>2016-06-23T10:53:19-00:00</lastmod>
+>>>>>>> 7bc8c6be94c05f492e6c646fecc831536f62650e
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
+<<<<<<< HEAD
 <loc>http://cdw18-ag100.rhcloud.com/static/blog/categories.html</loc>
 <lastmod>2016-06-23T09:55:39-00:00</lastmod>
 <changefreq>daily</changefreq>
@@ -62,6 +78,10 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://cdw18-ag100.rhcloud.com/static/blog/author/40323199.html</loc>
 <lastmod>2016-06-23T09:10:31+08:06</lastmod>
+=======
+<loc>http://cdw11-ag100.rhcloud.com/static/blog/categories.html</loc>
+<lastmod>2016-06-23T10:53:19-00:00</lastmod>
+>>>>>>> 7bc8c6be94c05f492e6c646fecc831536f62650e
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
