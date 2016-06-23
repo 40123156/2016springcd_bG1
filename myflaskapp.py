@@ -33,6 +33,7 @@ app = Flask(__name__)
 app.secret_key = 'A0Zr9@8j/3yX R~XHH!jmN]LWX/,?R@T'
 
 
+import users.b.g1.b40123133_2D
 
 
 
@@ -376,3 +377,4 @@ def send_file(path):
 if __name__ == "__main__":
     app.run()
 
+app.register_blueprint(users.b.g1.b40123133_2D.scrum40123133_task1)
