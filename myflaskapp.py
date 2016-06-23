@@ -6,6 +6,9 @@ import os
 # init.py 為自行建立的起始物件
 import init
 
+#bg1
+import users.b.g1.bg1_40123156
+
 # 確定程式檔案所在目錄, 在 Windows 有最後的反斜線
 _curdir = os.path.join(os.getcwd(), os.path.dirname(__file__))
 # 設定在雲端與近端的資料儲存目錄
@@ -376,3 +379,5 @@ def send_file(path):
 if __name__ == "__main__":
     app.run()
 
+#bg1
+app.register_blueprint(users.b.g1.bg1_40123156.bg1_40123156)
