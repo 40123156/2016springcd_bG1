@@ -16,7 +16,7 @@
 個人對應的 Github Page 網頁:http://python-40123133.rhcloud.com
 
 40123134
-個人對應的 Github Page 網頁:http://python-40123134.rhcloud.com/static/blog/search.html?q=4
+個人對應的 Github Page 網頁:http://python-40123134.rhcloud.com/static/blog/search.html?q=40123134
 
 
 
