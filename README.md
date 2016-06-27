@@ -1,7 +1,8 @@
 # 2016springcd_bG1
 
-組員修改權限邀請: https://github.com/40123156/2016springcd_bG1/invitations
+gh-pages 網址: https://40123156.github.io/2016springcd_bG1/static/blog/
 
+----
 
 40123129
 個人 Github Page 網頁: http://40123129-cdw11.rhcloud.com/static/blog/tags.html
