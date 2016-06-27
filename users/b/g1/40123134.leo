@@ -20,7 +20,7 @@
 <v t="amd.20160501220029.1" a="E"><vh>假如要在近端檢視, 使用下列按鈕</vh>
 <v t="amd.20160501220029.2"><vh>@button local pelican</vh></v>
 </v>
-<v t="amd.20160501215942.1" a="E"><vh>@path content/a/g100</vh>
+<v t="amd.20160501215942.1" a="E"><vh>@path content/b/g1</vh>
 <v t="amd.20160501215720.1"><vh>@edit 40123134-2D.md</vh></v>
 <v t="leo.20160627161142.1"><vh>@edit 40123134-Gear.md</vh></v>
 <v t="leo.20160627161142.2"><vh>@edit 40123134-3D-Gear.md</vh></v>
