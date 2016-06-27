@@ -22,5 +22,5 @@
 個人對應的 Github Pag 網頁:http://python-40123144.rhcloud.com/static/blog/40123144-qi-mo-bao-gao-_2.html
 
 40123156
-個人對應的 Github Page 網頁:http://cdw2bg1-40123156.rhcloud.com/static/blog/index.html
+2D圖形報告: https://40123156.github.io/2016springcd_bG1/static/blog/40123156-2dtu-xing-bao-gao.html
 
