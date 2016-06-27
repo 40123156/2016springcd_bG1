@@ -1,18 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>CD期末考週 網頁 (虎尾科大MDE)</title><link href="https://40123156.github.io/2016springcd_bG1/static/blog/" rel="alternate"></link><link href="https://40123156.github.io/2016springcd_bG1/static/blog/feeds/all.atom.xml" rel="self"></link><id>https://40123156.github.io/2016springcd_bG1/static/blog/</id><updated>2016-06-27T16:15:15+08:00</updated><entry><title>40123134 3D齒輪報告</title><link href="https://40123156.github.io/2016springcd_bG1/static/blog/40123134-3dchi-lun-bao-gao.html" rel="alternate"></link><updated>2016-06-27T16:15:15+08:00</updated><author><name>40123134</name></author><id>tag:40123156.github.io,2016-06-27:2016springcd_bG1/static/blog/40123134-3dchi-lun-bao-gao.html</id><summary type="html">&lt;h2&gt;3D齒輪:  &lt;/h2&gt;
-
-
-
-&lt;h2&gt;先到老師的Onshape找到MDE Spur Gear複製老師程式碼後，到自己的Onshape點開左下角的(+)之後建立Feature Studio將程式碼貼上後按Save，就可以獲得正齒輪特徵&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src="http://imgur.com/hE3OvMw.png"&gt;
-&lt;h2&gt;如下圖。第一行為齒數，圖中用紅筆畫的為模數很重要!!!!!齒型的模數一定要相等，不然無法配合，壓力角也是。&lt;/h2&gt;
-&lt;img src="http://i.imgur.com/bTlp8pl.jpg"&gt;
-&lt;h2&gt;在來就是組裝，設定好齒輪關係後最重要的就是關係比例，關係比例如何設定呢?將第一齒的齒數/第二齒的齒數就可以得到一個值,,將這個值填入就可以完成齒輪配合(如下圖)如果不填入比例關係會造成齒輪干涉。&lt;/h2&gt;
-&lt;img src="http://i.imgur.com/H3t3bPG.jpg"&gt;&lt;/p&gt;
-&lt;h2&gt;心得:現在是雲端時代，我們也必須學會如何在雲端操作及協同，Onshpae也已經將程式碼公開。在組立過程遇到問題，問題在組立好後再旋轉的時候會發生干涉，再詢問同學後發現關係比例要設定不然會在旋轉的時候發生干涉。&lt;/h2&gt;
-
-&lt;h3&gt;自評:75分&lt;/h3&gt;</summary><category term="40123134"></category></entry><entry><title>40123134 2D齒輪報告</title><link href="https://40123156.github.io/2016springcd_bG1/static/blog/40123134-2dchi-lun-bao-gao.html" rel="alternate"></link><updated>2016-06-27T16:15:15+08:00</updated><author><name>40123134</name></author><id>tag:40123156.github.io,2016-06-27:2016springcd_bG1/static/blog/40123134-2dchi-lun-bao-gao.html</id><summary type="html">&lt;h2&gt;2D齒輪:  &lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>CD期末考週 網頁 (虎尾科大MDE)</title><link href="https://40123156.github.io/2016springcd_bG1/static/blog/" rel="alternate"></link><link href="https://40123156.github.io/2016springcd_bG1/static/blog/feeds/all.atom.xml" rel="self"></link><id>https://40123156.github.io/2016springcd_bG1/static/blog/</id><updated>2016-06-27T21:34:40+08:00</updated><entry><title>40123156 2D圖形報告</title><link href="https://40123156.github.io/2016springcd_bG1/static/blog/40123156-2dtu-xing-bao-gao.html" rel="alternate"></link><updated>2016-06-27T21:34:40+08:00</updated><author><name>40123156</name></author><id>tag:40123156.github.io,2016-06-27:2016springcd_bG1/static/blog/40123156-2dtu-xing-bao-gao.html</id><summary type="html">&lt;p&gt;步驟一: 使用 SolveSpace 軟體繪製任意圖形&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://i.imgur.com/3aj7efs.jpg"&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;步驟二: 點擊下圖中反白處或按 Shift + X&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://i.imgur.com/BvzSfSv.jpg"&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;步驟三: 點選圖片輪廓，輪廓會轉變為紅色&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://i.imgur.com/L5uKOHx.jpg"&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;步驟四: 點選 File &amp;gt; Export 2d Section&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://i.imgur.com/FooCMbr.jpg"&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;步驟五: 存檔類型要記得選擇 .svg&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://i.imgur.com/y3Lm1Cv.jpg"&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;步驟六: 使用 SciTE 軟體開啟上一步驟的存檔並將下圖中反白處複製下來&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://i.imgur.com/0E8zlih.jpg"&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;步驟七: 將上一步驟複製的程式碼貼上至下圖反白處&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://i.imgur.com/tTSpgiz.jpg"&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;步驟八: 最後在近端檢視有無成功顯示出來&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://i.imgur.com/cYTgKfa.jpg"&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;心得: 使用 SolveSpace 軟體去轉為程式碼的步驟因為是在好幾個月前學的，有些步驟忘記了，只好憑藉著些許記憶去不斷嘗試，最後才試出來。&lt;/p&gt;</summary><category term="40123156"></category></entry><entry><title>40123134 2D齒輪報告</title><link href="https://40123156.github.io/2016springcd_bG1/static/blog/40123134-2dchi-lun-bao-gao.html" rel="alternate"></link><updated>2016-06-27T21:05:10+08:00</updated><author><name>40123134</name></author><id>tag:40123156.github.io,2016-06-27:2016springcd_bG1/static/blog/40123134-2dchi-lun-bao-gao.html</id><summary type="html">&lt;h2&gt;2D齒輪:  &lt;/h2&gt;
 
 
 
@@ -32,7 +43,20 @@
 &lt;h2&gt;這一行要新增第四個齒輪的座標以及要選轉的角度，第四個齒輪x座標等於原本的加上第一個齒輪的半徑+第二個齒輪的直徑+第三個齒輪的直徑在加上原本齒輪的半徑就是第四個齒輪的半徑(如下圖)&lt;/h2&gt;
 &lt;img src="http://imgur.com/zwDZigt.png"&gt;
 &lt;h2&gt;心得:由於程式碼老師已經公布了，所以我們只需要做更改，以及新增齒輪，雖然一開始看不太懂程式碼再寫甚麼，不過老師在上面都有助解這段程式碼再寫甚麼，所以只需要複習再複習就可以了解老師這段程式碼再寫甚麼，有些不懂的程式碼還是需要問同學，最後謝謝教授細心的教導。&lt;/h2&gt;
-&lt;h3&gt;自評:75分&lt;/h3&gt;&lt;/p&gt;</summary><category term="40123134"></category></entry><entry><title>40123134 2D鍊條報告</title><link href="https://40123156.github.io/2016springcd_bG1/static/blog/40123134-2dlian-tiao-bao-gao.html" rel="alternate"></link><updated>2016-06-27T16:15:15+08:00</updated><author><name>40123134</name></author><id>tag:40123156.github.io,2016-06-27:2016springcd_bG1/static/blog/40123134-2dlian-tiao-bao-gao.html</id><summary type="html">&lt;h2&gt;2D鍊條 :  &lt;/h2&gt;
+&lt;h3&gt;自評:75分&lt;/h3&gt;&lt;/p&gt;</summary><category term="40123134"></category></entry><entry><title>40123134 3D齒輪報告</title><link href="https://40123156.github.io/2016springcd_bG1/static/blog/40123134-3dchi-lun-bao-gao.html" rel="alternate"></link><updated>2016-06-27T21:05:10+08:00</updated><author><name>40123134</name></author><id>tag:40123156.github.io,2016-06-27:2016springcd_bG1/static/blog/40123134-3dchi-lun-bao-gao.html</id><summary type="html">&lt;h2&gt;3D齒輪:  &lt;/h2&gt;
+
+
+
+&lt;h2&gt;先到老師的Onshape找到MDE Spur Gear複製老師程式碼後，到自己的Onshape點開左下角的(+)之後建立Feature Studio將程式碼貼上後按Save，就可以獲得正齒輪特徵&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src="http://imgur.com/hE3OvMw.png"&gt;
+&lt;h2&gt;如下圖。第一行為齒數，圖中用紅筆畫的為模數很重要!!!!!齒型的模數一定要相等，不然無法配合，壓力角也是。&lt;/h2&gt;
+&lt;img src="http://i.imgur.com/bTlp8pl.jpg"&gt;
+&lt;h2&gt;在來就是組裝，設定好齒輪關係後最重要的就是關係比例，關係比例如何設定呢?將第一齒的齒數/第二齒的齒數就可以得到一個值,,將這個值填入就可以完成齒輪配合(如下圖)如果不填入比例關係會造成齒輪干涉。&lt;/h2&gt;
+&lt;img src="http://i.imgur.com/H3t3bPG.jpg"&gt;&lt;/p&gt;
+&lt;h2&gt;心得:現在是雲端時代，我們也必須學會如何在雲端操作及協同，Onshpae也已經將程式碼公開。在組立過程遇到問題，問題在組立好後再旋轉的時候會發生干涉，再詢問同學後發現關係比例要設定不然會在旋轉的時候發生干涉。&lt;/h2&gt;
+
+&lt;h3&gt;自評:75分&lt;/h3&gt;</summary><category term="40123134"></category></entry><entry><title>40123134 2D鍊條報告</title><link href="https://40123156.github.io/2016springcd_bG1/static/blog/40123134-2dlian-tiao-bao-gao.html" rel="alternate"></link><updated>2016-06-27T21:05:10+08:00</updated><author><name>40123134</name></author><id>tag:40123156.github.io,2016-06-27:2016springcd_bG1/static/blog/40123134-2dlian-tiao-bao-gao.html</id><summary type="html">&lt;h2&gt;2D鍊條 :  &lt;/h2&gt;
 
 
 
@@ -46,7 +70,7 @@
 &lt;h3&gt;完成結果:&lt;/h3&gt;
 &lt;img src="http://i.imgur.com/ckI18Hc.png "&gt;
 &lt;h3&gt;心得: 剛開始還搞不太懂怎麼轉鏈條角度，嘗試了一下發現只能旋轉鍊條還無法將鏈條相接，剛開始只知道一直嘗試修改數字找出如何修改位置，但還是無法將鍊條相接再一起，後來詢問同學後發現要用繪圖軟體計算出鍊條的位置，填入相對位置就可以將鍊條相接在一起。&lt;/h3&gt;&lt;/p&gt;
-&lt;h3&gt;自評:75分&lt;/h3&gt;</summary><category term="40123134"></category></entry><entry><title>40123133</title><link href="https://40123156.github.io/2016springcd_bG1/static/blog/40123133.html" rel="alternate"></link><updated>2016-06-27T16:00:02+08:00</updated><author><name>40123133</name></author><id>tag:40123156.github.io,2016-06-27:2016springcd_bG1/static/blog/40123133.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;</summary><category term="40123133"></category><category term="cdw18"></category></entry><entry><title>協同產品設計實習期末考週專案報告</title><link href="https://40123156.github.io/2016springcd_bG1/static/blog/xie-tong-chan-pin-she-ji-shi-xi-qi-mo-kao-zhou-zhuan-an-bao-gao.html" rel="alternate"></link><updated>2016-06-27T16:00:02+08:00</updated><author><name>40323199</name></author><id>tag:40123156.github.io,2016-06-27:2016springcd_bG1/static/blog/xie-tong-chan-pin-she-ji-shi-xi-qi-mo-kao-zhou-zhuan-an-bao-gao.html</id><summary type="html">&lt;p&gt;為了能夠更客觀進行各組與各學員的期末自評, 特別以組為單位, 各組員為內容建構成員, 利用四堂課程的時間, 在各組新建的 Github 倉儲中完成此一專案報告.&lt;/p&gt;
+&lt;h3&gt;自評:75分&lt;/h3&gt;</summary><category term="40123134"></category></entry><entry><title>40123133</title><link href="https://40123156.github.io/2016springcd_bG1/static/blog/40123133.html" rel="alternate"></link><updated>2016-06-27T16:05:11+08:00</updated><author><name>40123133</name></author><id>tag:40123156.github.io,2016-06-27:2016springcd_bG1/static/blog/40123133.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;</summary><category term="40123133"></category><category term="cdw18"></category></entry><entry><title>協同產品設計實習期末考週專案報告</title><link href="https://40123156.github.io/2016springcd_bG1/static/blog/xie-tong-chan-pin-she-ji-shi-xi-qi-mo-kao-zhou-zhuan-an-bao-gao.html" rel="alternate"></link><updated>2016-06-23T11:32:36+08:00</updated><author><name>40323199</name></author><id>tag:40123156.github.io,2016-06-23:2016springcd_bG1/static/blog/xie-tong-chan-pin-she-ji-shi-xi-qi-mo-kao-zhou-zhuan-an-bao-gao.html</id><summary type="html">&lt;p&gt;為了能夠更客觀進行各組與各學員的期末自評, 特別以組為單位, 各組員為內容建構成員, 利用四堂課程的時間, 在各組新建的 Github 倉儲中完成此一專案報告.&lt;/p&gt;
 
 
 &lt;p&gt;基本專案建置流程:&lt;/p&gt;
