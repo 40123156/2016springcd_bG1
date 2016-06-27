@@ -1,6 +1,7 @@
 # 2016springcd_bG1
 
 gh-pages 網址: https://40123156.github.io/2016springcd_bG1/static/blog/
+openshift 網址: http://2016springcdbg1-40123134.rhcloud.com/
 
 ----
 
