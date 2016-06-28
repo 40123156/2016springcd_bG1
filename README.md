@@ -27,3 +27,13 @@ openshift 網址: http://2016springcdbg1-40123134.rhcloud.com/
 40123156
 2D圖形報告: https://40123156.github.io/2016springcd_bG1/static/blog/40123156-2dtu-xing-bao-gao.html
 
+----
+
+2D幾何零件圖形
+40123129:
+http://2016springcdbg1-cdw11.rhcloud.com/bg1_40123129/one
+
+----
+
+Onshape 小組協同 3D 正齒輪:
+https://cad.onshape.com/documents/d2313bbf0f98b86adf127cf3/w/0eabb3a3f39ee11fea36314f/e/20f765202658d1143b5950ab
