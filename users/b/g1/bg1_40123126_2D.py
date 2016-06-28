@@ -2,10 +2,10 @@
 from flask import Blueprint, render_template, make_response
 
 # 利用 Blueprint建立 ag1, 並且 url 前綴為 /ag1, 並設定 template 存放目錄
-bg1_40123156 = Blueprint('bg1_40123156', __name__, url_prefix='/bg1_40123156', template_folder='templates')
+bg1_40123126 = Blueprint('bg1_40123126', __name__, url_prefix='/bg1_40123126', template_folder='templates')
 
 
-@bg1_40123156.route('/circle')
+@bg1_40123126.route('/face')
 def three():
     outstring = '''
 
@@ -61,7 +61,7 @@ deg = math.pi/180
 # 將繪製鏈條輪廓的內容寫成 class 物件
 class chain():
     # 輪廓的外型設為 class variable
-    chamber = ""
+    chamber = "M23.484 5.000 A18.484,18.484 0 0,0 5.000,23.484 A18.484,18.484 0 0,0 23.484,41.967 A18.484,18.484 0 0,0 41.967,23.484 A18.484,18.484 0 0,0 23.484,5.000 M17.884 18.755 A3.672,3.672 0 0,1 14.212,15.084 A3.672,3.672 0 0,1 17.884,11.412 A3.672,3.672 0 0,1 21.555,15.084 A3.672,3.672 0 0,1 17.884,18.755 M29.684 19.057 A3.774,3.774 0 0,1 25.910,15.284 A3.774,3.774 0 0,1 29.684,11.510 A3.774,3.774 0 0,1 33.457,15.284 A3.774,3.774 0 0,1 29.684,19.057 M23.684 40.314 A5.831,5.831 0 0,1 17.853,34.484 A5.831,5.831 0 0,1 23.684,28.653 A5.831,5.831 0 0,1 29.514,34.484 A5.831,5.831 0 0,1 23.684,40.314"
     #chamber = "M 0, 0 L 0, -20 z"
     cgoChamber = window.svgToCgoSVG(chamber)
  

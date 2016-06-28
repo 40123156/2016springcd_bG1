@@ -29,6 +29,7 @@
 <v t="leo.20160627041313.1"><vh>b40123126_2D declarations</vh></v>
 <v t="leo.20160627041313.3"><vh>two</vh></v>
 </v>
+<v t="leo.20160629050627.1"><vh>@clean bg1_40123126_2D.py</vh></v>
 <v t="amd.20160501221015.1" a="E"><vh>@path ./../../../</vh>
 <v t="amd.20160501221001.1" a="E"><vh>@clean myflaskapp.py</vh>
 <v t="amd.20160501221001.2"><vh>myflaskapp declarations</vh></v>
@@ -61,6 +62,12 @@
 <v t="leo.20160627040424.3"><vh>Recovered node "myflaskapp declarations" from @clean myflaskapp.py</vh>
 <v t="leo.20160627040424.4"><vh>old:myflaskapp declarations</vh></v>
 <v t="leo.20160627040424.5"><vh>new:myflaskapp declarations</vh></v>
+</v>
+</v>
+<v t="leo.20160629050612.2" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20160629050612.3"><vh>Recovered node "myflaskapp declarations" from @clean myflaskapp.py</vh>
+<v t="leo.20160629050612.4"><vh>old:myflaskapp declarations</vh></v>
+<v t="leo.20160629050612.5"><vh>new:myflaskapp declarations</vh></v>
 </v>
 </v>
 </vnodes>
@@ -98,8 +105,13 @@ if __name__ == "__main__":
 
 #bg1
 app.register_blueprint(users.b.g1.bg1_40123156.bg1_40123156)
+app.register_blueprint(users.b.g1.bg1_40123129.bg1_40123129)
 app.register_blueprint(users.b.g1.b40123133_2D.scrum40123133_task1)
-app.register_blueprint(users.b.g1.b40123126_2D.bg1_40123126)
+app.register_blueprint(users.b.g1.b40123126_2D.bg1_40123126_2D)
+app.register_blueprint(users.b.g1.bg1_40123126_2D.bg1_40123126)
+app.register_blueprint(users.b.g1.bg1_40123134.bg1_40123134)
+app.register_blueprint(users.b.g1.bg1_40123144_2.bg40123144)
+
 </t>
 <t tx="amd.20160501221001.10">@app.route('/fileaxupload', methods=['POST'])
 # ajax jquery chunked file upload for flask
@@ -236,8 +248,12 @@ import init
 
 #bg1
 import users.b.g1.bg1_40123156
+import users.b.g1.bg1_40123129
 import users.b.g1.b40123133_2D
 import users.b.g1.b40123126_2D
+import users.b.g1.bg1_40123126_2D
+import users.b.g1.bg1_40123134
+import users.b.g1.bg1_40123144_2
 
 # 確定程式檔案所在目錄, 在 Windows 有最後的反斜線
 _curdir = os.path.join(os.getcwd(), os.path.dirname(__file__))
@@ -777,13 +793,13 @@ app.secret_key = 'A0Zr9@8j/3yX R~XHH!jmN]LWX/,?R@T'
 from flask import Blueprint, render_template, make_response
 
 # 利用 Blueprint建立 ag1, 並且 url 前綴為 /ag1, 並設定 template 存放目錄
-bg1_40123126 = Blueprint('bg1_40123126', __name__, url_prefix='/bg1_40123126', template_folder='templates')
+bg1_40123126_2D = Blueprint('bg1_40123126_2D', __name__, url_prefix='/bg1_40123126_2D', template_folder='templates')
 
 
 
 
 </t>
-<t tx="leo.20160627041313.3">@bg1_40123126.route('/bacd')
+<t tx="leo.20160627041313.3">@bg1_40123126_2D.route('/bacd')
 def two():
     outstring = '''
 &lt;!DOCTYPE html&gt;
@@ -994,6 +1010,307 @@ mychain.basic(x10, y10, 0+65*3, 0, color="green")
     return outstring
 
 
+
+</t>
+<t tx="leo.20160629050612.2"></t>
+<t tx="leo.20160629050612.3">(uncached) amd.20160501221001.2
+Diff...
+  # coding: utf-8
+  from flask import Flask, send_from_directory, request, redirect, render_template, session, make_response
+  import random
+  import math
+  import os
+  # init.py 為自行建立的起始物件
+  import init
+  
+  #bg1
+  import users.b.g1.bg1_40123156
+- import users.b.g1.bg1_40123129
+  import users.b.g1.b40123133_2D
+  import users.b.g1.b40123126_2D
+- import users.b.g1.bg1_40123134
+- import users.b.g1.bg1_40123144_2
+  
+  # 確定程式檔案所在目錄, 在 Windows 有最後的反斜線
+  _curdir = os.path.join(os.getcwd(), os.path.dirname(__file__))
+  # 設定在雲端與近端的資料儲存目錄
+  if 'OPENSHIFT_REPO_DIR' in os.environ.keys():
+      # 表示程式在雲端執行
+      data_dir = os.environ['OPENSHIFT_DATA_DIR']
+      static_dir = os.environ['OPENSHIFT_REPO_DIR']+"/static"
+      download_dir = os.environ['OPENSHIFT_DATA_DIR']+"/downloads"
+  else:
+      # 表示程式在近端執行
+      data_dir = _curdir + "/local_data/"
+      static_dir = _curdir + "/static"
+      download_dir = _curdir + "/local_data/downloads/"
+  
+  # 利用 init.py 啟動, 建立所需的相關檔案
+  initobj = init.Init()
+  
+  # 必須先將 download_dir 設為 static_folder, 然後才可以用於 download 方法中的 app.static_folder 的呼叫
+  app = Flask(__name__)
+  #app.config['download_dir'] = download_dir
+  
+  # 使用 session 必須要設定 secret_key
+  # In order to use sessions you have to set a secret key
+  # set the secret key.  keep this really secret:
+  app.secret_key = 'A0Zr9@8j/3yX R~XHH!jmN]LWX/,?R@T'
+  
+  
+  
+  
+  
+  
+  
+  
+</t>
+<t tx="leo.20160629050612.4"># coding: utf-8
+from flask import Flask, send_from_directory, request, redirect, render_template, session, make_response
+import random
+import math
+import os
+# init.py 為自行建立的起始物件
+import init
+
+#bg1
+import users.b.g1.bg1_40123156
+import users.b.g1.b40123133_2D
+import users.b.g1.b40123126_2D
+
+# 確定程式檔案所在目錄, 在 Windows 有最後的反斜線
+_curdir = os.path.join(os.getcwd(), os.path.dirname(__file__))
+# 設定在雲端與近端的資料儲存目錄
+if 'OPENSHIFT_REPO_DIR' in os.environ.keys():
+    # 表示程式在雲端執行
+    data_dir = os.environ['OPENSHIFT_DATA_DIR']
+    static_dir = os.environ['OPENSHIFT_REPO_DIR']+"/static"
+    download_dir = os.environ['OPENSHIFT_DATA_DIR']+"/downloads"
+else:
+    # 表示程式在近端執行
+    data_dir = _curdir + "/local_data/"
+    static_dir = _curdir + "/static"
+    download_dir = _curdir + "/local_data/downloads/"
+
+# 利用 init.py 啟動, 建立所需的相關檔案
+initobj = init.Init()
+
+# 必須先將 download_dir 設為 static_folder, 然後才可以用於 download 方法中的 app.static_folder 的呼叫
+app = Flask(__name__)
+#app.config['download_dir'] = download_dir
+
+# 使用 session 必須要設定 secret_key
+# In order to use sessions you have to set a secret key
+# set the secret key.  keep this really secret:
+app.secret_key = 'A0Zr9@8j/3yX R~XHH!jmN]LWX/,?R@T'
+
+
+
+
+
+
+
+
+</t>
+<t tx="leo.20160629050612.5"># coding: utf-8
+from flask import Flask, send_from_directory, request, redirect, render_template, session, make_response
+import random
+import math
+import os
+# init.py 為自行建立的起始物件
+import init
+
+#bg1
+import users.b.g1.bg1_40123156
+import users.b.g1.bg1_40123129
+import users.b.g1.b40123133_2D
+import users.b.g1.b40123126_2D
+import users.b.g1.bg1_40123134
+import users.b.g1.bg1_40123144_2
+
+# 確定程式檔案所在目錄, 在 Windows 有最後的反斜線
+_curdir = os.path.join(os.getcwd(), os.path.dirname(__file__))
+# 設定在雲端與近端的資料儲存目錄
+if 'OPENSHIFT_REPO_DIR' in os.environ.keys():
+    # 表示程式在雲端執行
+    data_dir = os.environ['OPENSHIFT_DATA_DIR']
+    static_dir = os.environ['OPENSHIFT_REPO_DIR']+"/static"
+    download_dir = os.environ['OPENSHIFT_DATA_DIR']+"/downloads"
+else:
+    # 表示程式在近端執行
+    data_dir = _curdir + "/local_data/"
+    static_dir = _curdir + "/static"
+    download_dir = _curdir + "/local_data/downloads/"
+
+# 利用 init.py 啟動, 建立所需的相關檔案
+initobj = init.Init()
+
+# 必須先將 download_dir 設為 static_folder, 然後才可以用於 download 方法中的 app.static_folder 的呼叫
+app = Flask(__name__)
+#app.config['download_dir'] = download_dir
+
+# 使用 session 必須要設定 secret_key
+# In order to use sessions you have to set a secret key
+# set the secret key.  keep this really secret:
+app.secret_key = 'A0Zr9@8j/3yX R~XHH!jmN]LWX/,?R@T'
+
+
+
+
+
+
+
+
+</t>
+<t tx="leo.20160629050627.1"># 各組分別在各自的 .py 程式中建立應用程式 (第1步/總共3步)
+from flask import Blueprint, render_template, make_response
+
+# 利用 Blueprint建立 ag1, 並且 url 前綴為 /ag1, 並設定 template 存放目錄
+bg1_40123126 = Blueprint('bg1_40123126', __name__, url_prefix='/bg1_40123126', template_folder='templates')
+
+
+@bg1_40123126.route('/face')
+def three():
+    outstring = '''
+
+
+&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+    &lt;meta charset="UTF-8"&gt;
+    &lt;title&gt;網際 2D 繪圖&lt;/title&gt;
+    &lt;!-- IE 9: display inline SVG --&gt;
+    &lt;meta http-equiv="X-UA-Compatible" content="IE=9"&gt;
+&lt;script type="text/javascript" src="http://brython.info/src/brython_dist.js"&gt;&lt;/script&gt;
+&lt;script type="text/javascript" src="http://cptocadp-2015fallhw.rhcloud.com/static/Cango-8v03.js"&gt;&lt;/script&gt;
+&lt;script type="text/javascript" src="http://cptocadp-2015fallhw.rhcloud.com/static/Cango2D-6v13.js"&gt;&lt;/script&gt;
+&lt;script type="text/javascript" src="http://cptocadp-2015fallhw.rhcloud.com/static/CangoAxes-1v33.js"&gt;&lt;/script&gt;
+ 
+&lt;/head&gt;
+&lt;body&gt;
+ 
+&lt;script&gt;
+window.onload=function(){
+brython(1);
+}
+&lt;/script&gt;
+ 
+&lt;canvas id="plotarea" width="800" height="800"&gt;&lt;/canvas&gt;
+
+&lt;script type="text/python"&gt;
+from javascript import JSConstructor
+from browser import alert
+from browser import window
+import math
+ 
+cango = JSConstructor(window.Cango)
+cobj = JSConstructor(window.Cobj)
+shapedefs = window.shapeDefs
+obj2d = JSConstructor(window.Obj2D)
+cgo = cango("plotarea")
+ 
+cgo.setWorldCoords(-250, -250, 500, 500) 
+ 
+# 畫軸線
+cgo.drawAxes(0, 240, 0, 240, {
+    "strokeColor":"#aaaaaa",
+    "fillColor": "#aaaaaa",
+    "xTickInterval": 20,
+    "xLabelInterval": 20,
+    "yTickInterval": 20,
+    "yLabelInterval": 20})
+ 
+deg = math.pi/180  
+ 
+# 將繪製鏈條輪廓的內容寫成 class 物件
+class chain():
+    # 輪廓的外型設為 class variable
+    chamber = "M23.484 5.000 A18.484,18.484 0 0,0 5.000,23.484 A18.484,18.484 0 0,0 23.484,41.967 A18.484,18.484 0 0,0 41.967,23.484 A18.484,18.484 0 0,0 23.484,5.000 M17.884 18.755 A3.672,3.672 0 0,1 14.212,15.084 A3.672,3.672 0 0,1 17.884,11.412 A3.672,3.672 0 0,1 21.555,15.084 A3.672,3.672 0 0,1 17.884,18.755 M29.684 19.057 A3.774,3.774 0 0,1 25.910,15.284 A3.774,3.774 0 0,1 29.684,11.510 A3.774,3.774 0 0,1 33.457,15.284 A3.774,3.774 0 0,1 29.684,19.057 M23.684 40.314 A5.831,5.831 0 0,1 17.853,34.484 A5.831,5.831 0 0,1 23.684,28.653 A5.831,5.831 0 0,1 29.514,34.484 A5.831,5.831 0 0,1 23.684,40.314"
+    #chamber = "M 0, 0 L 0, -20 z"
+    cgoChamber = window.svgToCgoSVG(chamber)
+ 
+    def __init__(self, fillcolor="green", border=True, strokecolor= "tan", linewidth=2, scale=1):
+        self.fillcolor = fillcolor
+        self.border = border
+        self.strokecolor = strokecolor
+        self.linewidth = linewidth
+        self.scale = scale
+ 
+    # 利用鏈條起點與終點定義繪圖
+    def basic(self, x1, y1, x2, y2):
+        self.x1 = x1
+        self.y1 = y1
+        self.x2 = x2
+        self.y2 = y2
+        # 注意, cgo.Chamber 為成員變數
+        cmbr = cobj(self.cgoChamber, "SHAPE", {
+                "fillColor": self.fillcolor,
+                "border": self.border,
+                "strokeColor": self.strokecolor,
+                "lineWidth": self.linewidth })
+ 
+        # hole 為原點位置
+        hole = cobj(shapedefs.circle(4*self.scale), "PATH")
+        cmbr.appendPath(hole)
+ 
+        # 複製 cmbr, 然後命名為 basic1
+        basic1 = cmbr.dup()
+        # 因為鏈條的角度由原點向下垂直, 所以必須轉 90 度, 再考量 atan2 的轉角
+        basic1.rotate(math.atan2(y2-y1, x2-x1)/deg+90)
+ 
+        # 放大 scale 倍
+        cgo.render(basic1, x1, y1, self.scale, 0)
+ 
+    # 利用鏈條起點與旋轉角度定義繪圖, 使用內定的 color, border 與 linewidth 變數
+    def basic_rot(self, x1, y1, rot, v=False):
+        # 若 v 為 True 則為虛擬 chain, 不 render
+        self.x1 = x1
+        self.y1 = y1
+        self.rot = rot
+        self.v = v
+        # 注意, cgoChamber 為成員變數
+        cmbr = cobj(self.cgoChamber, "SHAPE", {
+                "fillColor": self.fillcolor,
+                "border": self.border,
+                "strokeColor": self.strokecolor,
+                "lineWidth": self.linewidth })
+ 
+        # hole0 為原點位置
+        hole = cobj(shapedefs.circle(4*self.scale), "PATH")
+        cmbr.appendPath(hole)
+        # 根據旋轉角度, 計算 x2 與 y2
+        x2 = x1 + 20*math.cos(rot*deg)*self.scale
+        y2 = y1 + 20*math.sin(rot*deg)*self.scale
+ 
+        # 複製 cmbr, 然後命名為 basic1
+        basic1 = cmbr.dup()
+        # 因為鏈條的角度由原點向下垂直, 所以必須轉 90 度, 再考量 atan2 的轉角
+        basic1.rotate(rot+90)
+ 
+        # 放大 scale 倍
+        if v == False:
+            cgo.render(basic1, x1, y1, self.scale, 0)
+ 
+        return x2, y2
+
+mychain = chain()
+ 
+x1, y1 = mychain.basic_rot(0,0, 50)
+x2, y2=mychain.basic_rot(x1, y1, 90-80) 
+x3, y3=mychain.basic_rot(x2, y2, 90-120) 
+x4, y4=mychain.basic_rot(x3, y3, 90-160) 
+x5, y5=mychain.basic_rot(x4, y4, 90-200) 
+x6, y6=mychain.basic_rot(x5, y5, 90-240) 
+x7, y7=mychain.basic_rot(x6, y6, 90-280) 
+x8, y8=mychain.basic_rot(x7, y7, 90-320) 
+x9, y9=mychain.basic_rot(x8, y8, 90-360) 
+
+&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+
+'''
+    return outstring
 
 </t>
 </tnodes>

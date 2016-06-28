@@ -2,12 +2,12 @@
 from flask import Blueprint, render_template, make_response
 
 # 利用 Blueprint建立 ag1, 並且 url 前綴為 /ag1, 並設定 template 存放目錄
-bg1_40123126 = Blueprint('bg1_40123126', __name__, url_prefix='/bg1_40123126', template_folder='templates')
+bg1_40123126_2D = Blueprint('bg1_40123126_2D', __name__, url_prefix='/bg1_40123126_2D', template_folder='templates')
 
 
 
 
-@bg1_40123126.route('/bacd')
+@bg1_40123126_2D.route('/bacd')
 def two():
     outstring = '''
 <!DOCTYPE html>
