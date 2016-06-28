@@ -132,14 +132,7 @@ class chain():
 mychain = chain()
  
 x1, y1 = mychain.basic_rot(0,0, 50)
-x2, y2=mychain.basic_rot(x1, y1, 90-80) 
-x3, y3=mychain.basic_rot(x2, y2, 90-120) 
-x4, y4=mychain.basic_rot(x3, y3, 90-160) 
-x5, y5=mychain.basic_rot(x4, y4, 90-200) 
-x6, y6=mychain.basic_rot(x5, y5, 90-240) 
-x7, y7=mychain.basic_rot(x6, y6, 90-280) 
-x8, y8=mychain.basic_rot(x7, y7, 90-320) 
-x9, y9=mychain.basic_rot(x8, y8, 90-360) 
+
 
 </script>
 </body>
