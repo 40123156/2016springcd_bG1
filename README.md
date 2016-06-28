@@ -38,10 +38,10 @@ openshift 網址: http://2016springcdbg1-40123134.rhcloud.com/
 
 40123129
 
+個人對應的 Github Pag 網頁:http://40123129-cdw11.rhcloud.com/static/blog/tags.html
+
 2D幾何圖形:
 http://2016springcdbg1-40123134.rhcloud.com/bg1_40123129/one
-
-個人對應的 Github Pag 網頁:http://40123129-cdw11.rhcloud.com/static/blog/tags.html
 
 ----
 
