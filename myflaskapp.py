@@ -8,6 +8,7 @@ import init
 
 #bg1
 import users.b.g1.bg1_40123156
+import users.b.g1.bg1_40123129
 import users.b.g1.b40123133_2D
 import users.b.g1.b40123126_2D
 
@@ -387,5 +388,6 @@ if __name__ == "__main__":
 
 #bg1
 app.register_blueprint(users.b.g1.bg1_40123156.bg1_40123156)
+app.register_blueprint(users.b.g1.bg1_40123129.bg1_40123129)
 app.register_blueprint(users.b.g1.b40123133_2D.scrum40123133_task1)
 app.register_blueprint(users.b.g1.b40123126_2D.bg1_40123126)
