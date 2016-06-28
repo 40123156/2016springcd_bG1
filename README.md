@@ -18,12 +18,16 @@ openshift 網址: http://2016springcdbg1-40123134.rhcloud.com/
 40123133
 個人對應的 Github Page 網頁:http://python-40123133.rhcloud.com
 
+---
 40123134
+
 個人對應的 Github Page 網頁:http://python-40123134.rhcloud.com/static/blog/search.html?q=40123134
 
 2D幾何圖形: http://2016springcdbg1-40123134.rhcloud.com/bg1_40123134/2D
 
 2D幾何報告: http://2016springcdbg1-40123134.rhcloud.com/static/blog/40123134-2dqi-mo-zhuan-an.html
+
+---
 
 40123144
 個人對應的 Github Pag 網頁:http://python-40123144.rhcloud.com/static/blog/40123144-qi-mo-bao-gao-_2.html
