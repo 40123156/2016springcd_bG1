@@ -6,9 +6,6 @@ openshift 網址: http://2016springcdbg1-40123134.rhcloud.com/
 
 ----
 
-40123129
-個人 Github Page 網頁: http://40123129-cdw11.rhcloud.com/static/blog/tags.html
-
 40123126
 個人 Github Page 網頁: http://python-40123126.rhcloud.com/
 
@@ -18,7 +15,11 @@ openshift 網址: http://2016springcdbg1-40123134.rhcloud.com/
 40123133
 個人對應的 Github Page 網頁:http://python-40123133.rhcloud.com
 
+40123144
+個人對應的 Github Pag 網頁:http://python-40123144.rhcloud.com/static/blog/40123144-qi-mo-bao-gao-_2.html
+
 ---
+
 40123134
 
 個人對應的 Github Page 網頁:http://python-40123134.rhcloud.com/static/blog/search.html?q=40123134
@@ -29,17 +30,18 @@ openshift 網址: http://2016springcdbg1-40123134.rhcloud.com/
 
 ---
 
-40123144
-個人對應的 Github Pag 網頁:http://python-40123144.rhcloud.com/static/blog/40123144-qi-mo-bao-gao-_2.html
 
 40123156
 2D圖形報告: https://40123156.github.io/2016springcd_bG1/static/blog/40123156-2dtu-xing-bao-gao.html
 
 ----
 
-2D幾何零件圖形
-40123129:
-http://2016springcdbg1-cdw11.rhcloud.com/bg1_40123129/one
+40123129
+
+2D幾何圖形:
+http://2016springcdbg1-40123134.rhcloud.com/bg1_40123129/one
+
+個人對應的 Github Pag 網頁:http://40123129-cdw11.rhcloud.com/static/blog/tags.html
 
 ----
 
