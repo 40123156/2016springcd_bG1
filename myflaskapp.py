@@ -12,6 +12,7 @@ import users.b.g1.bg1_40123129
 import users.b.g1.b40123133_2D
 import users.b.g1.b40123126_2D
 import users.b.g1.bg1_40123134
+import users.b.g1.bg1_40123144_2
 
 # 確定程式檔案所在目錄, 在 Windows 有最後的反斜線
 _curdir = os.path.join(os.getcwd(), os.path.dirname(__file__))
@@ -393,3 +394,5 @@ app.register_blueprint(users.b.g1.bg1_40123129.bg1_40123129)
 app.register_blueprint(users.b.g1.b40123133_2D.scrum40123133_task1)
 app.register_blueprint(users.b.g1.b40123126_2D.bg1_40123126)
 app.register_blueprint(users.b.g1.bg1_40123134.bg1_40123134)
+app.register_blueprint(users.b.g1.bg1_40123144_2.bg40123144)
+
