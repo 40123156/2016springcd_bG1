@@ -56,11 +56,11 @@ openshift 網址: http://2016springcdbg1-40123134.rhcloud.com/
 
 2D圖形報告: http://2016springcdbg1-40123134.rhcloud.com/static/blog/40123156-2dtu-xing-bao-gao.html
 
-(備份: https://40123156.github.io/2016springcd_bG1/static/blog/40123156-2dtu-xing-bao-gao.html)
+(備份: https://40123156.github.io/2016springcd_bG1/static/blog/40123156-2dtu-xing-bao-gao.html )
 
 期末報告: http://2016springcdbg1-40123134.rhcloud.com/static/blog/40123156-qi-mo-bao-gao.html
 
-(備份: https://40123156.github.io/2016springcd_bG1/static/blog/40123156-qi-mo-bao-gao.html)
+(備份: https://40123156.github.io/2016springcd_bG1/static/blog/40123156-qi-mo-bao-gao.html )
 
 ----
 
