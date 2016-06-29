@@ -5,29 +5,64 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://40123156.github.io/2016springcd_bG1/static/blog/</loc>
-<lastmod>2016-06-28T23:49:00-00:00</lastmod>
+<lastmod>2016-06-29T13:54:20-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://40123156.github.io/2016springcd_bG1/static/blog/archives.html</loc>
-<lastmod>2016-06-28T23:49:00-00:00</lastmod>
+<lastmod>2016-06-29T13:54:20-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://40123156.github.io/2016springcd_bG1/static/blog/tags.html</loc>
-<lastmod>2016-06-28T23:49:00-00:00</lastmod>
+<lastmod>2016-06-29T13:54:20-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://40123156.github.io/2016springcd_bG1/static/blog/categories.html</loc>
-<lastmod>2016-06-28T23:49:00-00:00</lastmod>
+<lastmod>2016-06-29T13:54:20-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://40123156.github.io/2016springcd_bG1/static/blog/40123131-2dchi-lun-bao-gao.html</loc>
+<lastmod>2016-06-29T13:06:41+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://40123156.github.io/2016springcd_bG1/static/blog/40123131-2dlian-tiao-bao-gao.html</loc>
+<lastmod>2016-06-29T13:06:41+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://40123156.github.io/2016springcd_bG1/static/blog/40123131-2dqi-mo-zhuan-an.html</loc>
+<lastmod>2016-06-29T13:06:41+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://40123156.github.io/2016springcd_bG1/static/blog/40123131-3dchi-lun-bao-gao.html</loc>
+<lastmod>2016-06-29T13:06:41+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://40123156.github.io/2016springcd_bG1/static/blog/40123133-qi-mo-xin-de.html</loc>
+<lastmod>2016-06-29T02:17:03+08:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -96,14 +131,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://40123156.github.io/2016springcd_bG1/static/blog/category/bg1.html</loc>
-<lastmod>2016-06-28T19:59:36+08:06</lastmod>
+<lastmod>2016-06-29T13:06:41+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://40123156.github.io/2016springcd_bG1/static/blog/tag/40123131.html</loc>
+<lastmod>2016-06-29T13:06:41+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://40123156.github.io/2016springcd_bG1/static/blog/tag/40123133.html</loc>
+<lastmod>2016-06-29T02:17:03+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://40123156.github.io/2016springcd_bG1/static/blog/tag/cdw18.html</loc>
-<lastmod>2016-06-23T23:08:38+08:06</lastmod>
+<lastmod>2016-06-29T02:17:03+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -137,15 +186,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://40123156.github.io/2016springcd_bG1/static/blog/tag/40123133.html</loc>
-<lastmod>2016-06-23T23:08:38+08:06</lastmod>
+<loc>https://40123156.github.io/2016springcd_bG1/static/blog/author/40123131.html</loc>
+<lastmod>2016-06-29T13:06:41+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://40123156.github.io/2016springcd_bG1/static/blog/author/40123133.html</loc>
-<lastmod>2016-06-23T23:08:38+08:06</lastmod>
+<lastmod>2016-06-29T02:17:03+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
