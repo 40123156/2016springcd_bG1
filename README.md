@@ -30,6 +30,10 @@ openshift 網址: http://2016springcdbg1-40123134.rhcloud.com/
 
 個人對應的 Github Page 網頁:http://python-40123133.rhcloud.com
 
+2D幾何圖形: http://2016springcdbg1-40123134.rhcloud.com/bg1/circle
+
+2D幾何報告: http://2016springcdbg1-40123134.rhcloud.com/static/blog/40123133-2dqi-mo-hui-tu-zhuan-an.html
+
 ---
 
 40123134
