@@ -4,232 +4,260 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>https://40123156.github.io/2016springcd_bG1/static/blog/</loc>
-<lastmod>2016-06-29T14:59:58-00:00</lastmod>
+<loc>./</loc>
+<lastmod>2016-06-29T21:12:32-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://40123156.github.io/2016springcd_bG1/static/blog/archives.html</loc>
-<lastmod>2016-06-29T14:59:58-00:00</lastmod>
+<loc>./archives.html</loc>
+<lastmod>2016-06-29T21:12:32-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://40123156.github.io/2016springcd_bG1/static/blog/tags.html</loc>
-<lastmod>2016-06-29T14:59:58-00:00</lastmod>
+<loc>./tags.html</loc>
+<lastmod>2016-06-29T21:12:32-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://40123156.github.io/2016springcd_bG1/static/blog/categories.html</loc>
-<lastmod>2016-06-29T14:59:58-00:00</lastmod>
+<loc>./categories.html</loc>
+<lastmod>2016-06-29T21:12:32-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://40123156.github.io/2016springcd_bG1/static/blog/40123156-qi-mo-bao-gao.html</loc>
-<lastmod>2016-06-29T14:30:49+08:00</lastmod>
+<loc>./40123126-qi-mo-bao-gao.html</loc>
+<lastmod>2016-06-29T20:59:46+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://40123156.github.io/2016springcd_bG1/static/blog/40123131-2dchi-lun-bao-gao.html</loc>
-<lastmod>2016-06-29T14:30:31+08:00</lastmod>
+<loc>./40123156-qi-mo-bao-gao.html</loc>
+<lastmod>2016-06-29T17:32:48+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://40123156.github.io/2016springcd_bG1/static/blog/40123131-2dlian-tiao-bao-gao.html</loc>
-<lastmod>2016-06-29T14:30:31+08:00</lastmod>
+<loc>./40123126-qi-mo-zhuan-an-bao-gao.html</loc>
+<lastmod>2016-06-29T17:27:56+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://40123156.github.io/2016springcd_bG1/static/blog/40123131-2dqi-mo-zhuan-an.html</loc>
-<lastmod>2016-06-29T14:30:31+08:00</lastmod>
+<loc>./40123131-2dchi-lun-bao-gao.html</loc>
+<lastmod>2016-06-29T05:51:23+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://40123156.github.io/2016springcd_bG1/static/blog/40123131-3dchi-lun-bao-gao.html</loc>
-<lastmod>2016-06-29T14:30:31+08:00</lastmod>
+<loc>./40123131-2dqi-mo-zhuan-an.html</loc>
+<lastmod>2016-06-29T05:51:23+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://40123156.github.io/2016springcd_bG1/static/blog/40123133-qi-mo-xin-de.html</loc>
-<lastmod>2016-06-29T14:30:31+08:00</lastmod>
+<loc>./40123131-3dchi-lun-bao-gao.html</loc>
+<lastmod>2016-06-29T05:51:23+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://40123156.github.io/2016springcd_bG1/static/blog/40123134-2dqi-mo-zhuan-an.html</loc>
-<lastmod>2016-06-29T14:30:31+08:00</lastmod>
+<loc>./40123131-2dlian-tiao-bao-gao.html</loc>
+<lastmod>2016-06-29T05:51:23+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://40123156.github.io/2016springcd_bG1/static/blog/40123144-2dhui-tu-qi-mo-zhuan-an.html</loc>
-<lastmod>2016-06-29T14:30:31+08:00</lastmod>
+<loc>./40123156-2dtu-xing-bao-gao.html</loc>
+<lastmod>2016-06-29T04:53:14+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://40123156.github.io/2016springcd_bG1/static/blog/40123156-2dtu-xing-bao-gao.html</loc>
-<lastmod>2016-06-27T21:34:40+08:00</lastmod>
+<loc>./40123134-2dchi-lun-bao-gao.html</loc>
+<lastmod>2016-06-29T04:53:14+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://40123156.github.io/2016springcd_bG1/static/blog/40123134-2dchi-lun-bao-gao.html</loc>
-<lastmod>2016-06-27T21:05:10+08:00</lastmod>
+<loc>./40123134-2dqi-mo-zhuan-an.html</loc>
+<lastmod>2016-06-29T04:53:14+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://40123156.github.io/2016springcd_bG1/static/blog/40123134-3dchi-lun-bao-gao.html</loc>
-<lastmod>2016-06-27T21:05:10+08:00</lastmod>
+<loc>./40123144-2dhui-tu-qi-mo-zhuan-an.html</loc>
+<lastmod>2016-06-29T04:53:14+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://40123156.github.io/2016springcd_bG1/static/blog/40123134-2dlian-tiao-bao-gao.html</loc>
-<lastmod>2016-06-27T21:05:10+08:00</lastmod>
+<loc>./40123133-2dqi-mo-hui-tu-zhuan-an.html</loc>
+<lastmod>2016-06-29T04:53:14+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://40123156.github.io/2016springcd_bG1/static/blog/40123133-2dqi-mo-hui-tu-zhuan-an.html</loc>
-<lastmod>2016-06-27T16:05:11+08:00</lastmod>
+<loc>./40123133-qi-mo-xin-de.html</loc>
+<lastmod>2016-06-29T04:53:14+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://40123156.github.io/2016springcd_bG1/static/blog/xie-tong-chan-pin-she-ji-shi-xi-qi-mo-kao-zhou-zhuan-an-bao-gao.html</loc>
-<lastmod>2016-06-23T11:32:36+08:00</lastmod>
+<loc>./40123134-2dlian-tiao-bao-gao.html</loc>
+<lastmod>2016-06-29T04:53:14+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://40123156.github.io/2016springcd_bG1/static/blog/category/ag100.html</loc>
-<lastmod>2016-06-23T11:32:36+08:06</lastmod>
+<loc>./40123134-3dchi-lun-bao-gao.html</loc>
+<lastmod>2016-06-29T04:53:14+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./xie-tong-chan-pin-she-ji-shi-xi-qi-mo-kao-zhou-zhuan-an-bao-gao.html</loc>
+<lastmod>2016-06-29T04:53:14+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./category/ag100.html</loc>
+<lastmod>2016-06-29T04:53:14+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://40123156.github.io/2016springcd_bG1/static/blog/category/bg1.html</loc>
-<lastmod>2016-06-29T14:30:49+08:06</lastmod>
+<loc>./category/bg1.html</loc>
+<lastmod>2016-06-29T20:59:46+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://40123156.github.io/2016springcd_bG1/static/blog/tag/40123144.html</loc>
-<lastmod>2016-06-29T14:30:31+08:06</lastmod>
+<loc>./tag/40123156.html</loc>
+<lastmod>2016-06-29T17:32:48+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://40123156.github.io/2016springcd_bG1/static/blog/tag/40123131.html</loc>
-<lastmod>2016-06-29T14:30:31+08:06</lastmod>
+<loc>./tag/40123133.html</loc>
+<lastmod>2016-06-29T04:53:14+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://40123156.github.io/2016springcd_bG1/static/blog/tag/40123156.html</loc>
-<lastmod>2016-06-29T14:30:49+08:06</lastmod>
+<loc>./tag/40123131.html</loc>
+<lastmod>2016-06-29T05:51:23+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://40123156.github.io/2016springcd_bG1/static/blog/tag/cdw18.html</loc>
-<lastmod>2016-06-29T14:30:31+08:06</lastmod>
+<loc>./tag/40123134.html</loc>
+<lastmod>2016-06-29T04:53:14+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://40123156.github.io/2016springcd_bG1/static/blog/tag/40323199.html</loc>
-<lastmod>2016-06-23T11:32:36+08:06</lastmod>
+<loc>./tag/cdw18.html</loc>
+<lastmod>2016-06-29T04:53:14+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://40123156.github.io/2016springcd_bG1/static/blog/tag/40123133.html</loc>
-<lastmod>2016-06-29T14:30:31+08:06</lastmod>
+<loc>./tag/40123126.html</loc>
+<lastmod>2016-06-29T20:59:46+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://40123156.github.io/2016springcd_bG1/static/blog/tag/40123134.html</loc>
-<lastmod>2016-06-29T14:30:31+08:06</lastmod>
+<loc>./tag/40323199.html</loc>
+<lastmod>2016-06-29T04:53:14+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://40123156.github.io/2016springcd_bG1/static/blog/author/40123131.html</loc>
-<lastmod>2016-06-29T14:30:31+08:06</lastmod>
+<loc>./tag/40123144.html</loc>
+<lastmod>2016-06-29T04:53:14+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://40123156.github.io/2016springcd_bG1/static/blog/author/40123133.html</loc>
-<lastmod>2016-06-29T14:30:31+08:06</lastmod>
+<loc>./author/40123126.html</loc>
+<lastmod>2016-06-29T20:59:46+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://40123156.github.io/2016springcd_bG1/static/blog/author/40123134.html</loc>
-<lastmod>2016-06-29T14:30:31+08:06</lastmod>
+<loc>./author/40123131.html</loc>
+<lastmod>2016-06-29T05:51:23+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://40123156.github.io/2016springcd_bG1/static/blog/author/40123144.html</loc>
-<lastmod>2016-06-29T14:30:31+08:06</lastmod>
+<loc>./author/40123133.html</loc>
+<lastmod>2016-06-29T04:53:14+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://40123156.github.io/2016springcd_bG1/static/blog/author/40123156.html</loc>
-<lastmod>2016-06-29T14:30:49+08:06</lastmod>
+<loc>./author/40123134.html</loc>
+<lastmod>2016-06-29T04:53:14+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://40123156.github.io/2016springcd_bG1/static/blog/author/40323199.html</loc>
-<lastmod>2016-06-23T11:32:36+08:06</lastmod>
+<loc>./author/40123144.html</loc>
+<lastmod>2016-06-29T04:53:14+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./author/40123156.html</loc>
+<lastmod>2016-06-29T17:32:48+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./author/40323199.html</loc>
+<lastmod>2016-06-29T04:53:14+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>

@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>CD期末考週 網頁 (虎尾科大MDE)</title><link href="https://40123156.github.io/2016springcd_bG1/static/blog/" rel="alternate"></link><link href="https://40123156.github.io/2016springcd_bG1/static/blog/feeds/bg1.atom.xml" rel="self"></link><id>https://40123156.github.io/2016springcd_bG1/static/blog/</id><updated>2016-06-29T14:30:49+08:00</updated><entry><title>40123156 期末報告</title><link href="https://40123156.github.io/2016springcd_bG1/static/blog/40123156-qi-mo-bao-gao.html" rel="alternate"></link><updated>2016-06-29T14:30:49+08:00</updated><author><name>40123156</name></author><id>tag:40123156.github.io,2016-06-29:2016springcd_bG1/static/blog/40123156-qi-mo-bao-gao.html</id><summary type="html">&lt;p&gt;2D鍊條: http://cdw2bg1-40123156.rhcloud.com/bg1_40123156_2/twocircle&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>CD期末考週 網頁 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/bg1.atom.xml" rel="self"></link><id>./</id><updated>2016-06-29T20:59:46+08:00</updated><entry><title>40123126 期末報告</title><link href="./40123126-qi-mo-bao-gao.html" rel="alternate"></link><updated>2016-06-29T20:59:46+08:00</updated><author><name>40123126</name></author><id>tag:,2016-06-29:./40123126-qi-mo-bao-gao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;期末報告&lt;/p&gt;
+&lt;p&gt;1.2D齒輪完成圖
+&lt;img src="http://imgur.com/uKayoch.png" /&gt;&lt;/p&gt;
+&lt;p&gt;2.2D鍊條完成圖
+&lt;img src="http://imgur.com/xvdxraS.png" /&gt;&lt;/p&gt;
+&lt;p&gt;3.3D齒輪完成圖
+&lt;img src="http://imgur.com/kY0L1sb.png" /&gt;&lt;/p&gt;
+&lt;p&gt;心得:經過這次的協同產品設計實習重修，發現以前修課的時候並不是那麼認真，這次重修又重新從老師身上學到了一些網際協同繪圖的軟體，以及認識了一些程式所代表的意思，真心覺得協同產品設計實習的是一門很受益良多的課程，謝謝老師。&lt;/p&gt;</summary><category term="40123126"></category></entry><entry><title>40123156 期末報告</title><link href="./40123156-qi-mo-bao-gao.html" rel="alternate"></link><updated>2016-06-29T17:32:48+08:00</updated><author><name>40123156</name></author><id>tag:,2016-06-29:./40123156-qi-mo-bao-gao.html</id><summary type="html">&lt;p&gt;2D鍊條: http://cdw2bg1-40123156.rhcloud.com/bg1_40123156_2/twocircle&lt;/p&gt;
 &lt;p&gt;&lt;img src="http://i.imgur.com/0QDY8qc.jpg"&gt;&lt;/p&gt;
 &lt;hr /&gt;
 &lt;p&gt;2D齒輪: http://cdw2bg1-40123156.rhcloud.com/bg1_40123156_2/threegear&lt;/p&gt;
@@ -15,7 +24,20 @@
 要把 public key 給代表組員來新增至 Openshift 上，
 在這些需要協同的地方很需要組員間的溝通，
 如果溝通的越順，越能省下一些時間和麻煩，
-最後，我認為我在課程中學習到寫程式要與他人溝通的方法和經驗。&lt;/p&gt;</summary><category term="40123156"></category></entry><entry><title>40123131 2D齒輪報告</title><link href="https://40123156.github.io/2016springcd_bG1/static/blog/40123131-2dchi-lun-bao-gao.html" rel="alternate"></link><updated>2016-06-29T14:30:31+08:00</updated><author><name>40123131</name></author><id>tag:40123156.github.io,2016-06-29:2016springcd_bG1/static/blog/40123131-2dchi-lun-bao-gao.html</id><summary type="html">&lt;h2&gt;2D 正齒輪傳動囓合:  &lt;/h2&gt;
+最後，我認為我在課程中學習到寫程式要與他人溝通的方法和經驗。&lt;/p&gt;</summary><category term="40123156"></category></entry><entry><title>40123126 期末專案報告</title><link href="./40123126-qi-mo-zhuan-an-bao-gao.html" rel="alternate"></link><updated>2016-06-29T17:27:56+08:00</updated><author><name>40123126</name></author><id>tag:,2016-06-29:./40123126-qi-mo-zhuan-an-bao-gao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;期末專案報告&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://imgur.com/UBPq0n7.png" /&gt;&lt;/p&gt;
+&lt;p&gt;步驟:
+1.先利用solvespace繪製一個幾何圖形&lt;/p&gt;
+&lt;p&gt;2.將檔案存成svg檔&lt;/p&gt;
+&lt;p&gt;3.利用python開啟程式碼
+&lt;img src="http://imgur.com/2CBZC8N.png" /&gt;&lt;/p&gt;
+&lt;p&gt;4.將反白處貼至老師所提供的程式碼，位置如圖
+&lt;img src="http://imgur.com/BZnuaew.png" /&gt;&lt;/p&gt;
+&lt;p&gt;5.任務完成
+&lt;img src="http://imgur.com/UBPq0n7.png" /&gt;&lt;/p&gt;
+&lt;p&gt;心得:這個任務是學期剛開始所教的任務，程式碼所代表的意思有點忘記了，花了一堆時間找出要如何更改程式碼，才能將幾何圖形顯是在網頁上，並且在次練習如何利用solvespace繪圖，以及如何將圖形轉成svg尋找點座標&lt;/p&gt;</summary><category term="40123126"></category></entry><entry><title>40123131 2D齒輪報告</title><link href="./40123131-2dchi-lun-bao-gao.html" rel="alternate"></link><updated>2016-06-29T05:51:23+08:00</updated><author><name>40123131</name></author><id>tag:,2016-06-29:./40123131-2dchi-lun-bao-gao.html</id><summary type="html">&lt;h2&gt;2D 正齒輪傳動囓合:  &lt;/h2&gt;
 
 
 
@@ -31,20 +53,7 @@
 &lt;p&gt;&lt;img src="http://imgur.com/TxIZmdj.jpg"&gt;&lt;/p&gt;
 &lt;h2&gt;心得:這次的正齒輪傳動囓合，程式老師都有給，而且註解其實也蠻詳細的，我們其實只需要修改裡面的部分內容就好了，不過這方面除了註解外，其實還有很多不知道為甚麼的地方，這邊還是靠同學的幫忙才可以完成的。&lt;/h2&gt;
 
-&lt;h3&gt;自評:60分&lt;/h3&gt;</summary><category term="40123131"></category></entry><entry><title>40123131 2D鍊條報告</title><link href="https://40123156.github.io/2016springcd_bG1/static/blog/40123131-2dlian-tiao-bao-gao.html" rel="alternate"></link><updated>2016-06-29T14:30:31+08:00</updated><author><name>40123131</name></author><id>tag:40123156.github.io,2016-06-29:2016springcd_bG1/static/blog/40123131-2dlian-tiao-bao-gao.html</id><summary type="html">&lt;h2&gt;2D鍊條 :  &lt;/h2&gt;
-
-
-
-&lt;h2&gt;先去Kmolab裡面複製程式碼，並且按照所需要求要將鏈條轉90度，問過同學之後發現在first_degree20.78後面後面加90度即可完成旋轉)&lt;/h2&gt;
-
-&lt;h2&gt;如果要改鏈條的位置的話，分別可以更改，p是控制左右位置，k是控制上下的位置&lt;/h2&gt;
-
-&lt;h3&gt;呈現出來的結果:&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src="http://imgur.com/ISPagmA.jpg "&gt;&lt;/p&gt;
-&lt;h3&gt;心得: 一開始還想說轉角度應該是改其中某個數字才對，然後嘗試好多次發現都怪怪的，後來問同學才發現是要在first_degree20.78後面後面加90度才可以讓它旋轉，然後還其實要用繪圖軟體來找出它鏈條的位置才能讓它連在一起，不然會整個亂掉，這樣還不如用原來的才行。&lt;/h3&gt;
-
-&lt;h3&gt;自評:60分&lt;/h3&gt;</summary><category term="40123131"></category></entry><entry><title>40123131 2D期末專案</title><link href="https://40123156.github.io/2016springcd_bG1/static/blog/40123131-2dqi-mo-zhuan-an.html" rel="alternate"></link><updated>2016-06-29T14:30:31+08:00</updated><author><name>40123131</name></author><id>tag:40123156.github.io,2016-06-29:2016springcd_bG1/static/blog/40123131-2dqi-mo-zhuan-an.html</id><summary type="html">&lt;h2&gt;2D期末專案:&lt;/h2&gt;
+&lt;h3&gt;自評:60分&lt;/h3&gt;</summary><category term="40123131"></category></entry><entry><title>40123131 2D期末專案</title><link href="./40123131-2dqi-mo-zhuan-an.html" rel="alternate"></link><updated>2016-06-29T05:51:23+08:00</updated><author><name>40123131</name></author><id>tag:,2016-06-29:./40123131-2dqi-mo-zhuan-an.html</id><summary type="html">&lt;h2&gt;2D期末專案:&lt;/h2&gt;
 
 
 
@@ -55,7 +64,7 @@
 &lt;h2&gt;最後執行SVG檔案，然後執行會得到2D尺寸，然後複製到自己的程式碼chamber的後面&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src="http://imgur.com/TdIugiw.jpg"&gt;&lt;/p&gt;
-&lt;h3&gt;自評:60分&lt;/h3&gt;</summary><category term="40123131"></category></entry><entry><title>40123131 3D齒輪報告</title><link href="https://40123156.github.io/2016springcd_bG1/static/blog/40123131-3dchi-lun-bao-gao.html" rel="alternate"></link><updated>2016-06-29T14:30:31+08:00</updated><author><name>40123131</name></author><id>tag:40123156.github.io,2016-06-29:2016springcd_bG1/static/blog/40123131-3dchi-lun-bao-gao.html</id><summary type="html">&lt;h2&gt;3D 正齒輪傳動:  &lt;/h2&gt;
+&lt;h3&gt;自評:60分&lt;/h3&gt;</summary><category term="40123131"></category></entry><entry><title>40123131 3D齒輪報告</title><link href="./40123131-3dchi-lun-bao-gao.html" rel="alternate"></link><updated>2016-06-29T05:51:23+08:00</updated><author><name>40123131</name></author><id>tag:,2016-06-29:./40123131-3dchi-lun-bao-gao.html</id><summary type="html">&lt;h2&gt;3D 正齒輪傳動:  &lt;/h2&gt;
 
 
 
@@ -69,43 +78,20 @@
 &lt;p&gt;&lt;img src="http://imgur.com/pz3Ppke.jpg"&gt;&lt;/p&gt;
 &lt;h2&gt; 心得:在現在雲端系統那麼需要的環境下，應該更需要多利用協同的方便性。這個齒輪組合件中需要注意的地方分別除了齒輪的模數、齒厚、中心孔之大小外，還需要注意到選轉是否會有所干涉，如果發現有問題的話，如有需要可能要去改角度來讓它減少干涉。&lt;/h2&gt;
 
-&lt;h3&gt;自評:65分&lt;/h3&gt;</summary><category term="40123131"></category></entry><entry><title>40123133 期末心得</title><link href="https://40123156.github.io/2016springcd_bG1/static/blog/40123133-qi-mo-xin-de.html" rel="alternate"></link><updated>2016-06-29T14:30:31+08:00</updated><author><name>40123133</name></author><id>tag:40123156.github.io,2016-06-29:2016springcd_bG1/static/blog/40123133-qi-mo-xin-de.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
-
-&lt;p&gt;心得:
-經由這學期的課程讓我更熟悉github和openshift的應用與操作,在做的過程中有許多的不懂地方,但經由問同學或是看別人的內容在進一步了解後做修改下,都能解決問題。這學期中學到onshape的應用,對我來講還滿實用的,像在期末專案中只要建立一個公開的畫布,每個人只要在上面畫自己負責的圖,就能達到協同的目的,如果能在熟悉他更多功能下,在往後運用上會有很大的幫助。
-這學期所學的上在之後或許有些會用不到,但在這門課上老師讓我們看到未來機械設計的方向,
-除了繪圖外,也要學習該如何與其他人進行協同,可以節省時間,增加團隊的效率。&lt;/p&gt;</summary><category term="40123133"></category><category term="cdw18"></category></entry><entry><title>40123134 2D期末專案</title><link href="https://40123156.github.io/2016springcd_bG1/static/blog/40123134-2dqi-mo-zhuan-an.html" rel="alternate"></link><updated>2016-06-29T14:30:31+08:00</updated><author><name>40123134</name></author><id>tag:40123156.github.io,2016-06-29:2016springcd_bG1/static/blog/40123134-2dqi-mo-zhuan-an.html</id><summary type="html">&lt;h2&gt;2D期末專案:&lt;/h2&gt;
+&lt;h3&gt;自評:65分&lt;/h3&gt;</summary><category term="40123131"></category></entry><entry><title>40123131 2D鍊條報告</title><link href="./40123131-2dlian-tiao-bao-gao.html" rel="alternate"></link><updated>2016-06-29T05:51:23+08:00</updated><author><name>40123131</name></author><id>tag:,2016-06-29:./40123131-2dlian-tiao-bao-gao.html</id><summary type="html">&lt;h2&gt;2D鍊條 :  &lt;/h2&gt;
 
 
 
-&lt;h2&gt;先用solvespace畫出我們要的2D圖(如下圖)副檔名存成(svg)&lt;/h2&gt;
+&lt;h2&gt;先去Kmolab裡面複製程式碼，並且按照所需要求要將鏈條轉90度，問過同學之後發現在first_degree20.78後面後面加90度即可完成旋轉)&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src="http://i.imgur.com/Hl94ELr.jpg"&gt;
-&lt;h2&gt;到Kmolab網站找到svg程式碼(如下圖)&lt;/h2&gt;
-&lt;img src="http://i.imgur.com/l0UJ4fi.jpg"&gt;
-&lt;h2&gt;把程式碼存成py檔後將SVG程式碼中的svg_file修改自己剛剛存下的svg檔(如下圖)&lt;/h2&gt;
-&lt;img src="http://i.imgur.com/LQOlNl3.jpg"&gt;
-&lt;h2&gt;執行SVG檔案解讀，會得到剛剛畫的2D尺寸(將下左圖Path:複製並貼到自己的py檔如下右圖中的chamber)&lt;/h2&gt;
-&lt;img src="http://i.imgur.com/IlJu7jG.jpg"&gt;
-&lt;img src="http://i.imgur.com/PhGQnc5.jpg"&gt;&lt;/p&gt;
-&lt;h3&gt;自評:75分&lt;/h3&gt;</summary><category term="40123134"></category></entry><entry><title>40123144 2D繪圖期末專案</title><link href="https://40123156.github.io/2016springcd_bG1/static/blog/40123144-2dhui-tu-qi-mo-zhuan-an.html" rel="alternate"></link><updated>2016-06-29T14:30:31+08:00</updated><author><name>40123144</name></author><id>tag:40123156.github.io,2016-06-29:2016springcd_bG1/static/blog/40123144-2dhui-tu-qi-mo-zhuan-an.html</id><summary type="html">&lt;h2&gt;2D繪圖期末專案:&lt;/h2&gt;
+&lt;h2&gt;如果要改鏈條的位置的話，分別可以更改，p是控制左右位置，k是控制上下的位置&lt;/h2&gt;
 
+&lt;h3&gt;呈現出來的結果:&lt;/h3&gt;
 
+&lt;p&gt;&lt;img src="http://imgur.com/ISPagmA.jpg "&gt;&lt;/p&gt;
+&lt;h3&gt;心得: 一開始還想說轉角度應該是改其中某個數字才對，然後嘗試好多次發現都怪怪的，後來問同學才發現是要在first_degree20.78後面後面加90度才可以讓它旋轉，然後還其實要用繪圖軟體來找出它鏈條的位置才能讓它連在一起，不然會整個亂掉，這樣還不如用原來的才行。&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src="http://i.imgur.com/CWp52Qx.jpg"&gt;&lt;/p&gt;
-&lt;h2&gt;使用solvespace繪製圖形點選封閉圖形範圍在使用功能長出，export 2D section就能導入python可辨識的程式碼
-&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src="http://i.imgur.com/vLebKVJ.jpg?1"&gt;&lt;/p&gt;
-&lt;h2&gt;
-修改cdw11自己的python程式將所繪製的輪廓可以顯示在localhost近端上執行
-&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src="http://i.imgur.com/DJo3Stl.jpg"&gt;&lt;/p&gt;
-&lt;h2&gt;心得&lt;/h2&gt;
-
-&lt;h2&gt;本次作業教我如何使用可攜式繪圖軟體轉換成程式碼，這讓我了解繪圖與程式的密不可分，許多的公司設計出的軟體深怕使用者深入修改軟體的程式碼，但是開放讓使用者自行開發出符合自己需求的功能才是未來的趨勢
-&lt;/h2&gt;</summary><category term="40123144"></category></entry><entry><title>40123156 2D圖形報告</title><link href="https://40123156.github.io/2016springcd_bG1/static/blog/40123156-2dtu-xing-bao-gao.html" rel="alternate"></link><updated>2016-06-27T21:34:40+08:00</updated><author><name>40123156</name></author><id>tag:40123156.github.io,2016-06-27:2016springcd_bG1/static/blog/40123156-2dtu-xing-bao-gao.html</id><summary type="html">&lt;p&gt;步驟一: 使用 SolveSpace 軟體繪製任意圖形&lt;/p&gt;
+&lt;h3&gt;自評:60分&lt;/h3&gt;</summary><category term="40123131"></category></entry><entry><title>40123156 2D圖形報告</title><link href="./40123156-2dtu-xing-bao-gao.html" rel="alternate"></link><updated>2016-06-29T04:53:14+08:00</updated><author><name>40123156</name></author><id>tag:,2016-06-29:./40123156-2dtu-xing-bao-gao.html</id><summary type="html">&lt;p&gt;步驟一: 使用 SolveSpace 軟體繪製任意圖形&lt;/p&gt;
 &lt;p&gt;&lt;img src="http://i.imgur.com/3aj7efs.jpg"&gt;&lt;/p&gt;
 &lt;hr /&gt;
 &lt;p&gt;步驟二: 點擊下圖中反白處或按 Shift + X&lt;/p&gt;
@@ -129,7 +115,7 @@
 &lt;p&gt;步驟八: 最後在近端檢視有無成功顯示出來&lt;/p&gt;
 &lt;p&gt;&lt;img src="http://i.imgur.com/cYTgKfa.jpg"&gt;&lt;/p&gt;
 &lt;hr /&gt;
-&lt;p&gt;心得: 使用 SolveSpace 軟體去轉為程式碼的步驟因為是在好幾個月前學的，有些步驟忘記了，只好憑藉著些許記憶去不斷嘗試，最後才試出來。&lt;/p&gt;</summary><category term="40123156"></category></entry><entry><title>40123134 2D齒輪報告</title><link href="https://40123156.github.io/2016springcd_bG1/static/blog/40123134-2dchi-lun-bao-gao.html" rel="alternate"></link><updated>2016-06-27T21:05:10+08:00</updated><author><name>40123134</name></author><id>tag:40123156.github.io,2016-06-27:2016springcd_bG1/static/blog/40123134-2dchi-lun-bao-gao.html</id><summary type="html">&lt;h2&gt;2D齒輪:  &lt;/h2&gt;
+&lt;p&gt;心得: 使用 SolveSpace 軟體去轉為程式碼的步驟因為是在好幾個月前學的，有些步驟忘記了，只好憑藉著些許記憶去不斷嘗試，最後才試出來。&lt;/p&gt;</summary><category term="40123156"></category></entry><entry><title>40123134 2D齒輪報告</title><link href="./40123134-2dchi-lun-bao-gao.html" rel="alternate"></link><updated>2016-06-29T04:53:14+08:00</updated><author><name>40123134</name></author><id>tag:,2016-06-29:./40123134-2dchi-lun-bao-gao.html</id><summary type="html">&lt;h2&gt;2D齒輪:  &lt;/h2&gt;
 
 
 
@@ -149,20 +135,56 @@
 &lt;h2&gt;這一行要新增第四個齒輪的座標以及要選轉的角度，第四個齒輪x座標等於原本的加上第一個齒輪的半徑+第二個齒輪的直徑+第三個齒輪的直徑在加上原本齒輪的半徑就是第四個齒輪的半徑(如下圖)&lt;/h2&gt;
 &lt;img src="http://imgur.com/zwDZigt.png"&gt;
 &lt;h2&gt;心得:由於程式碼老師已經公布了，所以我們只需要做更改，以及新增齒輪，雖然一開始看不太懂程式碼再寫甚麼，不過老師在上面都有助解這段程式碼再寫甚麼，所以只需要複習再複習就可以了解老師這段程式碼再寫甚麼，有些不懂的程式碼還是需要問同學，最後謝謝教授細心的教導。&lt;/h2&gt;
-&lt;h3&gt;自評:75分&lt;/h3&gt;&lt;/p&gt;</summary><category term="40123134"></category></entry><entry><title>40123134 3D齒輪報告</title><link href="https://40123156.github.io/2016springcd_bG1/static/blog/40123134-3dchi-lun-bao-gao.html" rel="alternate"></link><updated>2016-06-27T21:05:10+08:00</updated><author><name>40123134</name></author><id>tag:40123156.github.io,2016-06-27:2016springcd_bG1/static/blog/40123134-3dchi-lun-bao-gao.html</id><summary type="html">&lt;h2&gt;3D齒輪:  &lt;/h2&gt;
+&lt;h3&gt;自評:75分&lt;/h3&gt;&lt;/p&gt;</summary><category term="40123134"></category></entry><entry><title>40123134 2D期末專案</title><link href="./40123134-2dqi-mo-zhuan-an.html" rel="alternate"></link><updated>2016-06-29T04:53:14+08:00</updated><author><name>40123134</name></author><id>tag:,2016-06-29:./40123134-2dqi-mo-zhuan-an.html</id><summary type="html">&lt;h2&gt;2D期末專案:&lt;/h2&gt;
 
 
 
-&lt;h2&gt;先到老師的Onshape找到MDE Spur Gear複製老師程式碼後，到自己的Onshape點開左下角的(+)之後建立Feature Studio將程式碼貼上後按Save，就可以獲得正齒輪特徵&lt;/h2&gt;
+&lt;h2&gt;先用solvespace畫出我們要的2D圖(如下圖)副檔名存成(svg)&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src="http://imgur.com/hE3OvMw.png"&gt;
-&lt;h2&gt;如下圖。第一行為齒數，圖中用紅筆畫的為模數很重要!!!!!齒型的模數一定要相等，不然無法配合，壓力角也是。&lt;/h2&gt;
-&lt;img src="http://i.imgur.com/bTlp8pl.jpg"&gt;
-&lt;h2&gt;在來就是組裝，設定好齒輪關係後最重要的就是關係比例，關係比例如何設定呢?將第一齒的齒數/第二齒的齒數就可以得到一個值,,將這個值填入就可以完成齒輪配合(如下圖)如果不填入比例關係會造成齒輪干涉。&lt;/h2&gt;
-&lt;img src="http://i.imgur.com/H3t3bPG.jpg"&gt;&lt;/p&gt;
-&lt;h2&gt;心得:現在是雲端時代，我們也必須學會如何在雲端操作及協同，Onshpae也已經將程式碼公開。在組立過程遇到問題，問題在組立好後再旋轉的時候會發生干涉，再詢問同學後發現關係比例要設定不然會在旋轉的時候發生干涉。&lt;/h2&gt;
+&lt;p&gt;&lt;img src="http://i.imgur.com/Hl94ELr.jpg"&gt;
+&lt;h2&gt;到Kmolab網站找到svg程式碼(如下圖)&lt;/h2&gt;
+&lt;img src="http://i.imgur.com/l0UJ4fi.jpg"&gt;
+&lt;h2&gt;把程式碼存成py檔後將SVG程式碼中的svg_file修改自己剛剛存下的svg檔(如下圖)&lt;/h2&gt;
+&lt;img src="http://i.imgur.com/LQOlNl3.jpg"&gt;
+&lt;h2&gt;執行SVG檔案解讀，會得到剛剛畫的2D尺寸(將下左圖Path:複製並貼到自己的py檔如下右圖中的chamber)&lt;/h2&gt;
+&lt;img src="http://i.imgur.com/IlJu7jG.jpg"&gt;
+&lt;img src="http://i.imgur.com/PhGQnc5.jpg"&gt;&lt;/p&gt;
+&lt;h3&gt;自評:75分&lt;/h3&gt;</summary><category term="40123134"></category></entry><entry><title>40123144 2D繪圖期末專案</title><link href="./40123144-2dhui-tu-qi-mo-zhuan-an.html" rel="alternate"></link><updated>2016-06-29T04:53:14+08:00</updated><author><name>40123144</name></author><id>tag:,2016-06-29:./40123144-2dhui-tu-qi-mo-zhuan-an.html</id><summary type="html">&lt;h2&gt;2D繪圖期末專案:&lt;/h2&gt;
 
-&lt;h3&gt;自評:75分&lt;/h3&gt;</summary><category term="40123134"></category></entry><entry><title>40123134 2D鍊條報告</title><link href="https://40123156.github.io/2016springcd_bG1/static/blog/40123134-2dlian-tiao-bao-gao.html" rel="alternate"></link><updated>2016-06-27T21:05:10+08:00</updated><author><name>40123134</name></author><id>tag:40123156.github.io,2016-06-27:2016springcd_bG1/static/blog/40123134-2dlian-tiao-bao-gao.html</id><summary type="html">&lt;h2&gt;2D鍊條 :  &lt;/h2&gt;
+
+
+&lt;p&gt;&lt;img src="http://i.imgur.com/CWp52Qx.jpg"&gt;&lt;/p&gt;
+&lt;h2&gt;使用solvespace繪製圖形點選封閉圖形範圍在使用功能長出，export 2D section就能導入python可辨識的程式碼
+&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src="http://i.imgur.com/vLebKVJ.jpg?1"&gt;&lt;/p&gt;
+&lt;h2&gt;
+修改cdw11自己的python程式將所繪製的輪廓可以顯示在localhost近端上執行
+&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src="http://i.imgur.com/DJo3Stl.jpg"&gt;&lt;/p&gt;
+&lt;h2&gt;心得&lt;/h2&gt;
+
+&lt;h2&gt;本次作業教我如何使用可攜式繪圖軟體轉換成程式碼，這讓我了解繪圖與程式的密不可分，許多的公司設計出的軟體深怕使用者深入修改軟體的程式碼，但是開放讓使用者自行開發出符合自己需求的功能才是未來的趨勢
+&lt;/h2&gt;</summary><category term="40123144"></category></entry><entry><title>40123133 2D期末繪圖專案</title><link href="./40123133-2dqi-mo-hui-tu-zhuan-an.html" rel="alternate"></link><updated>2016-06-29T04:53:14+08:00</updated><author><name>40123133</name></author><id>tag:,2016-06-29:./40123133-2dqi-mo-hui-tu-zhuan-an.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;2D繪圖步驟:&lt;/p&gt;
+&lt;p&gt;1.利用solvespace畫出圖形,並將圖型存成.svg檔,&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://i.imgur.com/nfOwYyo.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://i.imgur.com/YqTfa2T.png" /&gt;&lt;/p&gt;
+&lt;p&gt;2.使用SciTE開啟檔案,並將此程式碼複製下來&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://i.imgur.com/Tv1s3ps.png" /&gt;&lt;/p&gt;
+&lt;p&gt;3.複製老師程式碼,再將剛剛複製的程式碼取代原本程式碼&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://i.imgur.com/Dbt18W4.png" /&gt;&lt;/p&gt;
+&lt;p&gt;4.使用python wsgi.py 執行程式檔&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://i.imgur.com/SL2wOQX.png" /&gt;&lt;/p&gt;
+&lt;p&gt;心得:&lt;/p&gt;
+&lt;p&gt;在畫solvespace時,一開始畫複雜的圖形,發現無法完全長出3D圖形,在解決問題時,有把所有接點再檢查一次,並沒有發現問題,因此就試著用簡單的圖形來做。要將solvespace圖形轉成svg檔時也試了好幾次,最後在選擇Export 2D Section才有svg檔可以轉。 &lt;/p&gt;</summary><category term="40123133"></category><category term="cdw18"></category></entry><entry><title>40123133 期末心得</title><link href="./40123133-qi-mo-xin-de.html" rel="alternate"></link><updated>2016-06-29T04:53:14+08:00</updated><author><name>40123133</name></author><id>tag:,2016-06-29:./40123133-qi-mo-xin-de.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;心得:
+經由這學期的課程讓我更熟悉github和openshift的應用與操作,在做的過程中有許多的不懂地方,但經由問同學或是看別人的內容在進一步了解後做修改下,都能解決問題。這學期中學到onshape的應用,對我來講還滿實用的,像在期末專案中只要建立一個公開的畫布,每個人只要在上面畫自己負責的圖,就能達到協同的目的,如果能在熟悉他更多功能下,在往後運用上會有很大的幫助。
+這學期所學的上在之後或許有些會用不到,但在這門課上老師讓我們看到未來機械設計的方向,
+除了繪圖外,也要學習該如何與其他人進行協同,可以節省時間,增加團隊的效率。&lt;/p&gt;</summary><category term="40123133"></category><category term="cdw18"></category></entry><entry><title>40123134 2D鍊條報告</title><link href="./40123134-2dlian-tiao-bao-gao.html" rel="alternate"></link><updated>2016-06-29T04:53:14+08:00</updated><author><name>40123134</name></author><id>tag:,2016-06-29:./40123134-2dlian-tiao-bao-gao.html</id><summary type="html">&lt;h2&gt;2D鍊條 :  &lt;/h2&gt;
 
 
 
@@ -176,17 +198,17 @@
 &lt;h3&gt;完成結果:&lt;/h3&gt;
 &lt;img src="http://i.imgur.com/ckI18Hc.png "&gt;
 &lt;h3&gt;心得: 剛開始還搞不太懂怎麼轉鏈條角度，嘗試了一下發現只能旋轉鍊條還無法將鏈條相接，剛開始只知道一直嘗試修改數字找出如何修改位置，但還是無法將鍊條相接再一起，後來詢問同學後發現要用繪圖軟體計算出鍊條的位置，填入相對位置就可以將鍊條相接在一起。&lt;/h3&gt;&lt;/p&gt;
-&lt;h3&gt;自評:75分&lt;/h3&gt;</summary><category term="40123134"></category></entry><entry><title>40123133 2D期末繪圖專案</title><link href="https://40123156.github.io/2016springcd_bG1/static/blog/40123133-2dqi-mo-hui-tu-zhuan-an.html" rel="alternate"></link><updated>2016-06-27T16:05:11+08:00</updated><author><name>40123133</name></author><id>tag:40123156.github.io,2016-06-27:2016springcd_bG1/static/blog/40123133-2dqi-mo-hui-tu-zhuan-an.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;h3&gt;自評:75分&lt;/h3&gt;</summary><category term="40123134"></category></entry><entry><title>40123134 3D齒輪報告</title><link href="./40123134-3dchi-lun-bao-gao.html" rel="alternate"></link><updated>2016-06-29T04:53:14+08:00</updated><author><name>40123134</name></author><id>tag:,2016-06-29:./40123134-3dchi-lun-bao-gao.html</id><summary type="html">&lt;h2&gt;3D齒輪:  &lt;/h2&gt;
 
-&lt;p&gt;2D繪圖步驟:&lt;/p&gt;
-&lt;p&gt;1.利用solvespace畫出圖形,並將圖型存成.svg檔,&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://i.imgur.com/nfOwYyo.png" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://i.imgur.com/YqTfa2T.png" /&gt;&lt;/p&gt;
-&lt;p&gt;2.使用SciTE開啟檔案,並將此程式碼複製下來&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://i.imgur.com/Tv1s3ps.png" /&gt;&lt;/p&gt;
-&lt;p&gt;3.複製老師程式碼,再將剛剛複製的程式碼取代原本程式碼&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://i.imgur.com/Dbt18W4.png" /&gt;&lt;/p&gt;
-&lt;p&gt;4.使用python wsgi.py 執行程式檔&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://i.imgur.com/SL2wOQX.png" /&gt;&lt;/p&gt;
-&lt;p&gt;心得:&lt;/p&gt;
-&lt;p&gt;在畫solvespace時,一開始畫複雜的圖形,發現無法完全長出3D圖形,在解決問題時,有把所有接點再檢查一次,並沒有發現問題,因此就試著用簡單的圖形來做。要將solvespace圖形轉成svg檔時也試了好幾次,最後在選擇Export 2D Section才有svg檔可以轉。 &lt;/p&gt;</summary><category term="40123133"></category><category term="cdw18"></category></entry></feed>
+
+
+&lt;h2&gt;先到老師的Onshape找到MDE Spur Gear複製老師程式碼後，到自己的Onshape點開左下角的(+)之後建立Feature Studio將程式碼貼上後按Save，就可以獲得正齒輪特徵&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src="http://imgur.com/hE3OvMw.png"&gt;
+&lt;h2&gt;如下圖。第一行為齒數，圖中用紅筆畫的為模數很重要!!!!!齒型的模數一定要相等，不然無法配合，壓力角也是。&lt;/h2&gt;
+&lt;img src="http://i.imgur.com/bTlp8pl.jpg"&gt;
+&lt;h2&gt;在來就是組裝，設定好齒輪關係後最重要的就是關係比例，關係比例如何設定呢?將第一齒的齒數/第二齒的齒數就可以得到一個值,,將這個值填入就可以完成齒輪配合(如下圖)如果不填入比例關係會造成齒輪干涉。&lt;/h2&gt;
+&lt;img src="http://i.imgur.com/H3t3bPG.jpg"&gt;&lt;/p&gt;
+&lt;h2&gt;心得:現在是雲端時代，我們也必須學會如何在雲端操作及協同，Onshpae也已經將程式碼公開。在組立過程遇到問題，問題在組立好後再旋轉的時候會發生干涉，再詢問同學後發現關係比例要設定不然會在旋轉的時候發生干涉。&lt;/h2&gt;
+
+&lt;h3&gt;自評:75分&lt;/h3&gt;</summary><category term="40123134"></category></entry></feed>
